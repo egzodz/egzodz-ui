@@ -58,11 +58,7 @@ Acompanhe meus vídeos e conteúdos.
 
 ## zalith launcher
 
-...row-start horizontal=spacedBy(10)
-
-...button-outlined text="Site" event="url {https://www.zalithlauncher.cn/}" weight=(1)
-
-...row-end
+...button-outlined text="Site oficial" event="url {https://www.zalithlauncher.cn/}" width=99% shape=20dp
 
 &nbsp;
 
