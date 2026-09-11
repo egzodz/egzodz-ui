@@ -1,6 +1,6 @@
 # egzodz
 
-...image url="68e3c0ddf882eea6200b5670a97bafe9.jpg" width=42% shape=32dp
+...image url="https://raw.githubusercontent.com/egzodz/egzodz-ui/main/68e3c0ddf882eea6200b5670a97bafe9.jpg" width=42% shape=32dp
 
 # bem-vindo ao egzodz ui
 
@@ -62,8 +62,6 @@ Acompanhe meus vídeos e conteúdos.
 
 ...button-outlined text="Site" event="url {https://www.zalithlauncher.cn/}" weight=(1)
 
-...button-outlined text="GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}" weight=(1)
-
 ...row-end
 
 &nbsp;
@@ -89,5 +87,5 @@ simples e organizada.
 Essa interface foi desenvolvida por
 **egzodz**.
 
-**Discord:** dishome_page.mdcord.gg/k2S69gSB6z  
+**Discord:** discord.gg/k2S69gSB6z  
 **TikTok:** @egzodz1
